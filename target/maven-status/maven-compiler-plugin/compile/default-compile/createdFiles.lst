@@ -1,0 +1,14 @@
+uni\isw\pe\model\VentaDet.class
+uni\isw\cc341project\CC341Project.class
+uni\isw\pe\model\Producto.class
+uni\isw\pe\controller\VentaControllerListener.class
+uni\isw\pe\model\dao\ClienteDAO.class
+uni\isw\pe\model\Cliente.class
+uni\isw\pe\view\VentaView.class
+uni\isw\pe\util\DbConnection.class
+uni\isw\pe\view\IVentaView.class
+uni\isw\pe\controller\VentaController.class
+uni\isw\pe\model\dao\ProductoDAO.class
+uni\isw\pe\model\VentaCab.class
+uni\isw\pe\model\dao\VentaDAO.class
+uni\isw\pe\model\Proveedor.class
