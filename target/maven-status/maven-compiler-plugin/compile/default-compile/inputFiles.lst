@@ -1,4 +1,10 @@
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\cc341project\CC341Project.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\grasp\Indireccion\ReservarVueloController.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\grasp\Indireccion\ReservarVueloIU.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\grasp\Indireccion\Vuelo.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\grasp\Nohablesconextranios\Curso.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\grasp\Nohablesconextranios\Estudiante.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\grasp\Nohablesconextranios\RegistrarEstudianteIU.java
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\pe\controller\VentaController.java
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\pe\controller\VentaControllerListener.java
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\pe\model\Cliente.java
@@ -12,3 +18,11 @@ D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\p
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\pe\util\DbConnection.java
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\pe\view\IVentaView.java
 D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\pe\view\VentaView.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\controller\CC_tpdv.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\model\CatalogoDeProductos.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\model\EspecificacionDeProducto.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\model\Pago.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\model\Tienda.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\model\Venta.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\model\VentasLineaDeProducto.java
+D:\apps\NetBeansProjects261\261CC341Project\CC341Project\src\main\java\uni\isw\tpdv\view\IU_tpdv.java
